@@ -1,0 +1,45 @@
+{
+  "name": "react-deeper-study",
+  "version": "1.0.0",
+  "description": "react deeper study, I will study it from level zero",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/WenXuanYuan/react-deeper-study.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "webpack"
+  ],
+  "author": "wenke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WenXuanYuan/react-deeper-study/issues"
+  },
+  "homepage": "https://github.com/WenXuanYuan/react-deeper-study#readme",
+  "dependencies": {
+    "koa": "^2.2.0",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-redux": "^5.0.5",
+    "react-router": "^4.1.1",
+    "redux": "^3.6.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-3": "^6.24.1",
+    "browser-sync": "^2.18.12",
+    "css-loader": "^0.28.2",
+    "file-loader": "^0.11.1",
+    "url-loader": "^0.5.8",
+    "webpack": "^2.6.0",
+    "webpack-dev-middleware": "^1.10.2",
+    "webpack-hot-middleware": "^2.18.0"
+  }
+}
