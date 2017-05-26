@@ -1,8 +1,11 @@
-# react deeper study
+next: tools/extractMessages.js
 
-Try to study react more deeper
+````
+build                                   // webpack output directory
+tools
+    -- run.js                           // comman time logger
+    -- clean.js                         // delete files in build
+    lib
+        -- fs.js                        // file handle system
 
-* study from npm run start
-tools/run.js is just a time logger from other commands.
-
-next study tools/clean command
+````

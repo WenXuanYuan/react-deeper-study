@@ -37,6 +37,8 @@
     "browser-sync": "^2.18.12",
     "css-loader": "^0.28.2",
     "file-loader": "^0.11.1",
+    "glob": "^7.1.2",
+    "rimraf": "^2.6.1",
     "url-loader": "^0.5.8",
     "webpack": "^2.6.0",
     "webpack-dev-middleware": "^1.10.2",
